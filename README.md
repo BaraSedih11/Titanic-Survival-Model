@@ -16,7 +16,7 @@ This repository contains an implementation of Titanic Survival Model with decisi
 
 ## Overview
 
-In this repository, we demonstrate how to perform decision trees and data manipulation using Python to predict a Titanic survival model. We utilize libraries such as NumPy, pandas, and scikit-learn to implement and visualize the regression model. Additionally, we provide a simple example along with explanations to help you understand how to apply multiple linear regression to your own datasets.
+In this repository, we demonstrate how to perform decision trees and data manipulation using Python to predict a Titanic survival model. We utilize libraries such as NumPy, pandas, and scikit-learn to implement and visualize the decision trees model. Additionally, we provide a simple example along with explanations to help you understand how to apply decision trees to your own datasets.
 
 ## Requirements
 
@@ -49,7 +49,7 @@ cd Titanic
 
 3. Open and run the Jupyter Notebook `titanic_survival_exploration.ipynb` using Jupyter Notebook or JupyterLab.
 
-4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+4. Follow along with the code and comments in the notebook to understand how decision trees is implemented using Python.
 
 
 ## Acknowledgements
